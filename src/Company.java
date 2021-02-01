@@ -56,6 +56,7 @@ public class Company {
             1st step - initilaze the list (listed as company2020)
             2nd step - sort (stupid way but still the best to copy all elements to TreeMap)
             3rd step - method find (by field 'Surname' of class 'Worker')
+
         */
         initialize();
         System.out.println(find("Bonka"));
